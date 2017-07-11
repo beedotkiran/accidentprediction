@@ -16,8 +16,7 @@ This git collections articles on Accident prediction and avoidance. The goal of 
 [![light object safe to hit](http://img.youtube.com/vi/bIm-ffb-SKs/0.jpg)](https://www.youtube.com/watch?v=bIm-ffb-SKs "light object safe to hit")
 
 
-[![Heavy object to avoid](http://img.youtube.com/vi/dByja-adlDY&feature=youtu.be&t=24
-/0.jpg)](https://www.youtube.com/watch?v=dByja-adlDY&feature=youtu.be&t=24 "Heavy object to avoid")
+[![Heavy object to avoid](http://img.youtube.com/vi/dByja-adlDY/0.jpg)](https://www.youtube.com/watch?v=dByja-adlDY&feature=youtu.be&t=24 "Heavy object to avoid")
 
 
 
