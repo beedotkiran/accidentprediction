@@ -11,7 +11,15 @@ This git collections articles on Accident prediction and avoidance. The goal of 
 - When will it change the lane? A probabilistic regression approach for rarely occurring events [link](http://ieeexplore.ieee.org/document/7225907/)
 - Probabilistic Online POMDP Decision Making for Lane Changes in Fully Automated Driving [link](https://www.ifr.ing.tu-bs.de/static/files/forschung/papers/download_pdf.php?id=739)
 - Probabilistic Lane Change Prediction in Highway Scenarios (master thesis) [pdf](http://www.diva-portal.org/smash/get/diva2:450863/ATTACHMENT01)
-- 
+- Autonomous driving challenge: To Infer the property of a dynamic object based on its motion pattern using recurrent neural network [pdf](https://arxiv.org/abs/1609.00361)
+
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/https://www.youtube.com/watch?v=bIm-ffb-SKs/0.jpg)](https://www.youtube.com/watch?v=bIm-ffb-SKs "light object safe to hit")
+
+
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/https://https://www.youtube.com/watch?v=dByja-adlDY&feature=youtu.be&t=24
+/0.jpg)](https://www.youtube.com/watch?v=dByja-adlDY&feature=youtu.be&t=24 "Heavy object to avoid")
+
+
 
 ## Other
 - [link](https://www.hindawi.com/journals/ijvt/2016/6952791/)
