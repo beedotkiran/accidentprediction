@@ -1,6 +1,10 @@
 # Accident prediction, avoidance and applications with dashcam data
 This git collections articles on Accident prediction and avoidance. The goal of accident prediction tasks is different from the task of semantic segmentation, and motion planning of a single vehicle. Given that each vehicle has such methods in place, the larger scale problem is evaluating the risk in traffic/highway. One of the main sources of accidents are dash cam video data available on youtube. There has also been a recent effort in sharing this data freely across vehicles by anonymizing the driver/car.
 
+Example of accident prediciton score from Dash cam videos (article below)
+
+[![light object safe to hit](http://img.youtube.com/vi/hjD2-oJRFxQ/0.jpg)](https://www.youtube.com/watch?v=hjD2-oJRFxQ "Anticipating accidents in Dashcam Videos")
+
 # Articles : 
 - Anticipating Accidents in Dashcam Videos [link](http://aliensunmin.github.io/project/dashcam/) [pdf](https://drive.google.com/file/d/0ByuDEGFYmWsbNkVxcUxhdDRVRkU/view)
 - Agent-Centric Risk Assessment: Accident Anticipation and Risky Region Localization [pdf](https://arxiv.org/abs/1705.06560)
